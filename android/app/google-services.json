@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590412270880",
+    "project_id": "mridulapp-f3bca",
+    "storage_bucket": "mridulapp-f3bca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590412270880:android:cd258a3c11400c7ceb5b45",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590412270880-l88fot5pnnbhldsslv6t65g9rqklpap5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapp",
+            "certificate_hash": "73eda070c48e8079821e12484eadd6bf058b22b0"
+          }
+        },
+        {
+          "client_id": "590412270880-3v9ba7ms0rr7h7liganeq1810dmv7dug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_WYlAqlE0zIjWOdTOL-5To6-y-nfkW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590412270880-3v9ba7ms0rr7h7liganeq1810dmv7dug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
